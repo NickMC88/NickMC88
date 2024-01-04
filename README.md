@@ -12,3 +12,5 @@
   <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
+
+![snake gif](https://github.com/NickMC88/NickMC88/blob/output/github-contribution-grid-snake.svg)
